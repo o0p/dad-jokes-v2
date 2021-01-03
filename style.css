@@ -26,3 +26,17 @@ body {
     max-width: 100%;
     width: 50rem;
 }
+
+h3 {
+    margin: 0;
+    opacity: 0.5;
+    letter-spacing: 0.125rem;
+}
+
+.joke {
+    font-size: 1.875rem;
+    letter-spacing: 0.0625rem;
+    line-height: 2.5rem;
+    margin: 3.125rem auto;
+    max-width: 37.5rem;
+}
