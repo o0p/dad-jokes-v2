@@ -16,7 +16,8 @@ body {
     margin: 0;
 }
 
-.inner-wrap {
-    grid-column: 1;
-    grid-row: 2 / 5;
+.container {
+    background-color: #fff;
+    border-radius: 0.625rem;
+    box-shadow: 0 0.625rem 1.25rem rgba(0, 0, 0, 0.1), 0 0.375rem 0.375rem rgba(0, 0, 0, 0.1);
 }
